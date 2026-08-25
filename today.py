@@ -29,9 +29,9 @@ USER_NAME = os.environ.get("USER_NAME", "abnerazad")
 ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "")
 
 # Birthdate / Uptime start date (YYYY, M, D). Configure your birthdate here:
-BIRTH_YEAR = int(os.environ.get("BIRTH_YEAR", 2002))
-BIRTH_MONTH = int(os.environ.get("BIRTH_MONTH", 1))
-BIRTH_DAY = int(os.environ.get("BIRTH_DAY", 1))
+BIRTH_YEAR = int(os.environ.get("BIRTH_YEAR", 2005))
+BIRTH_MONTH = int(os.environ.get("BIRTH_MONTH", 8))
+BIRTH_DAY = int(os.environ.get("BIRTH_DAY", 20))
 
 HEADERS = {
     "Authorization": f"Bearer {ACCESS_TOKEN}",
