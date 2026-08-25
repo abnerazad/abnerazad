@@ -1,7 +1,6 @@
-<div align="center">
+<a href="https://github.com/abnerazad/abnerazad">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-    <img alt="GitHub Profile Terminal Stats" src="dark_mode.svg" width="985">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abnerazad/abnerazad/main/dark_mode.svg">
+    <img alt="Abner Azad's GitHub Profile README" src="https://raw.githubusercontent.com/abnerazad/abnerazad/main/light_mode.svg">
   </picture>
-</div>
+</a>
