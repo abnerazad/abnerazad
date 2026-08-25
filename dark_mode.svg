@@ -17,7 +17,31 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-
+<tspan x="15" y="30"/>
+<tspan x="15" y="50"/>
+<tspan x="15" y="70">                ..          '.</tspan>
+<tspan x="15" y="90">           .       ..';:'   '~:'</tspan>
+<tspan x="15" y="110">          ..   +kw%%%NM%g*: '*!~:.</tspan>
+<tspan x="15" y="130">          ;~ 'H$$$$$$$$$Bk*' !j!~;'</tspan>
+<tspan x="15" y="150">          ;~ j$MNBBM@@Nmjj!; ~j!++;.</tspan>
+<tspan x="15" y="170">          ;+ ~rpk*+jr!~!+;:: !rjjj!;.</tspan>
+<tspan x="15" y="190">        ..~j++mwwkgwpH*wk*j!.:krrrj+:</tspan>
+<tspan x="15" y="210">       ...~%Bg@%MM%w@$pmHHw*.~mkkkr*~'</tspan>
+<tspan x="15" y="230">      .'''~w@BN$@MNNwm+r%Np~ !mmkkkj+:</tspan>
+<tspan x="15" y="250">      .''.+!gpw@MwgBBHk**g*.*kkkrkkj+:</tspan>
+<tspan x="15" y="270">      ....~*++j%N%wB%Bpjpk'~mkkrjkkj+:</tspan>
+<tspan x="15" y="290">      ''''+jjj*kmH$$@NNBk'.kkkkkkmmr+:</tspan>
+<tspan x="15" y="310">      .':'+j*j*kBrkpwpg*' .mmmmmkmkj+'</tspan>
+<tspan x="15" y="330">      .'::!j*!*w$Mpj!~: ..:mggggmmk*~.</tspan>
+<tspan x="15" y="350">       .. ~jkgN$@@$@%pj+**!pjggmrkj+:</tspan>
+<tspan x="15" y="370">        :jH%$$$@$MN@$NHpwkp%~!kgj!+:</tspan>
+<tspan x="15" y="390">      '!pNpB@@@$@$MNN%NM%B$wjkrkgj~.</tspan>
+<tspan x="15" y="410">      .;*!rNM$$@$@$@MM@@@@Ngkgkrj!:</tspan>
+<tspan x="15" y="430">        ''rpBM@$MM@@$$$$MHwgrrj+:.</tspan>
+<tspan x="15" y="450">          :!rgHBB$$$$$@%NMMm++:.</tspan>
+<tspan x="15" y="470">            '~*rkNMM@%HB%ww+'.</tspan>
+<tspan x="15" y="490">               ''!jjrjrr*~;</tspan>
+<tspan x="15" y="510">                    ...</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">abner@azad</tspan> -————————————————————————————————————————————-—-
