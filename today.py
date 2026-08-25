@@ -26,7 +26,7 @@ except ImportError:
 import requests
 
 # Configuration
-USER_NAME = os.environ.get("USER_NAME", "developer")
+USER_NAME = os.environ.get("USER_NAME", "abnerazad")
 ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "")
 
 # Birthdate / Uptime start date (YYYY, M, D). Configure your birthdate here:
